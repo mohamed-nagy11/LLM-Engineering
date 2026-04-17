@@ -1,16 +1,16 @@
 # Course Materials
-community-contributions/
-extras/
-guides/
-setup/
-week1/
-week2/
-week3/
-week4/
-week5/
-week6/
-week7/
-week8/
+/community-contributions/
+/extras/
+/guides/
+/setup/
+/week1/
+/week2/
+/week3/
+/week4/
+/week5/
+/week6/
+/week7/
+/week8/
 
 # Github's default gitignore for Python
 
